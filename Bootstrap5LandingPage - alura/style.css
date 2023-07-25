@@ -1,0 +1,19 @@
+.textMenor{
+    font-size: 13px;
+}
+
+.textMaiusculo{
+    text-transform: uppercase;
+}
+
+.divsFacilidades{
+    width: 325px;
+}
+
+.botaoLilas{
+    background-color: #9353FF;
+}
+
+.verdeLimao{
+    color: #DAFF01;
+}
